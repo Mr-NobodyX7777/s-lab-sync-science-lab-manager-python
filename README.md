@@ -57,7 +57,7 @@ version, so both can work against the same `lab_management` database.
 ## Quick start (from source)
 
 ```bash
-git clone https://github.com/OWNER/REPO.git
+git clone https://github.com/Mr-NobodyX7777/s-lab-sync-science-lab-manager-python.git
 cd REPO
 pip install -r requirements.txt
 python main.py
