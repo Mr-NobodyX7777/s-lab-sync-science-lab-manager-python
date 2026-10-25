@@ -4,8 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg)
 ![CI](https://github.com/Mr-NobodyX7777/s-lab-sync-science-lab-manager-python/actions/workflows/ci.yml/badge.svg)
 
-> Replace `OWNER/REPO` in the CI badge above with your GitHub `username/repository-name`
-> once this is pushed, so the badge resolves.
 
 <p align="center">
   <img src="assets/logo.png" alt="S Lab Sync logo" width="110">
