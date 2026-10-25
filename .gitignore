@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local settings that can contain passwords (normally kept in ~/.labmanager, outside the repo)
+.labmanager/
+python_db.json
+credentials.json
+db.properties
