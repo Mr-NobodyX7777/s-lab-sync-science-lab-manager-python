@@ -1,4 +1,4 @@
-# S Lab Sync — Python edition
+# S Lab Sync — Python Edition
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg)
@@ -15,6 +15,9 @@ experiments (who is doing what, supervised by which teacher, and when).
 
 This is the Python version of S Lab Sync. It uses the same MySQL schema as the Java Swing
 version, so both can work against the same `lab_management` database.
+
+It's just the same thing that the java version did but in python, just me using my 
+unemployed time to do something , anything usefull and this is what my brain came up with. 
 
 ## Table of Contents
 
@@ -140,5 +143,4 @@ checks, and the general workflow.
 
 ## License
 
-
-[MIT](LICENSE)
+This project is licensed under the [MIT License](LICENSE).
